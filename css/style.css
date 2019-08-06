@@ -1,5 +1,6 @@
 
 html {
+  font-size: 62.5%;
   height: 100%;
 }
 body {
@@ -11,6 +12,9 @@ body {
   margin: 0 auto;
   position: relative;
   min-height: 100%;
+}
+.mm{
+ opacity: 0.4;
 }
 
 ul {
@@ -109,28 +113,35 @@ ul.top_menu {
 }
 .bb{
   margin-left: 100px;
+  font-size: 1.5rem;
+  margin-top: 20px;
+
 }
 .ss{
   word-spacing: 30px;
+
 }
 .inside{
   position: relative;
   bottom: 25px;
   width: 480px;
   height: 2rem;
-  margin-left: 80px;
+  margin-left: 50px;
+
+
+
 }
 .insidem{
   position: relative;
   bottom: 25px;
-  left: 10px;
+  left: 5px;
   width: 480px;
-  margin-left: 80px;
+  margin-left: 50px;
   height: 4rem;
 }
 .do{
   position: relative;
-  top: 30px;
+  top: 10px;
 }
 
 .footer{
@@ -148,4 +159,11 @@ ul.top_menu {
   text-align: center;
   vertical-align: middle;
   display: table-cell;
+}
+.vv{
+
+  margin:0;
+}
+.vvv{
+  margin:0;
 }
